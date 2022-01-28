@@ -13,3 +13,5 @@ Ever wanted to convert a standard boring image into a set of X,Y coordinates you
 
 
 ![](https://github.com/JackOgozaly/Image_to_Dots/blob/main/Examples/starry_night.jpg =250x250)
+
+<img src="https://github.com/JackOgozaly/Image_to_Dots/blob/main/Examples/starry_night.jpg" width="150" height="280">
