@@ -4,4 +4,9 @@ Ever wanted to convert a standard boring image into a set of X,Y coordinates you
 
 # Example: 
 
+### Boring, Old, Tired, Uninspiring Starry Night
 
+![alt text](https://github.com/JackOgozaly/Image_to_Dots/blob/main/Examples/starry_night.jpg)
+
+### Interesting, New, Fresh, Inspiring Graphical Starry Night
+![alt text](https://github.com/JackOgozaly/Image_to_Dots/blob/main/Examples/starry_night_graph.png)
