@@ -6,10 +6,11 @@ Ever wanted to convert a standard boring image into a set of X,Y coordinates you
 
 ### Boring, Old, Tired, Uninspiring Starry Night
 
-<img src="https://github.com/JackOgozaly/Image_to_Dots/blob/main/Examples/starry_night.jpg" width="500" height="250">
+<img src="https://github.com/JackOgozaly/Image_to_Dots/blob/main/Examples/starry_night.jpg" width="400" height="250">
 
 ### Interesting, New, Fresh, Inspiring Graphical Starry Night
 ![alt text](https://github.com/JackOgozaly/Image_to_Dots/blob/main/Examples/starry_night_graph.png)
 
 
 
+<img src="https://github.com/JackOgozaly/Image_to_Dots/blob/main/Examples/starry_night_graph.png" width="400" height="250">
